@@ -13,6 +13,8 @@ tags: ["R Markdown", "plot", "regression"]
 Всем привет!  
 Я здесь -- новенький!  
 
+Тест от 16011-2023 -- 02-50  
+
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
