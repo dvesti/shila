@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://shilaru.netlify.app/sitemap.xml
+Sitemap: //localhost:4321/sitemap.xml
